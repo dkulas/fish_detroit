@@ -1,2 +1,3 @@
 # fish_detroit
-Fishing Community For (Metro) Detroit
+
+A Detroit/Metro-Detroit community interested in the outdoors with a focus on lake life, fishing and boating.
